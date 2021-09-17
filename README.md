@@ -1,4 +1,4 @@
-### <div align="center">Hi, I am Sherine, a beginner 🌱 full-stack developer . Recently discovered the exciting ⚡ world of Javascript and all the fuss around it...</div>  
+### <div align="center">Hi, I am Sherine, a beginner 🌱 full-stack developer . Recently discovered the exciting ⚡ world of Javascript and all the jazz around it...</div>  
   
 
 <br/>  
